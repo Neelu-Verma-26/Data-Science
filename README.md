@@ -1,2 +1,2 @@
 # Data-Science
-Author : Neelu Verma
+Author : Neelu Verma Singh
